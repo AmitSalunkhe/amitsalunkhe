@@ -10,32 +10,32 @@ const experience = {
 	title: "Experience",
 	subtitle: "Work, Internship and Volunteership",
 	description:
-		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+		"I have worked with many evolving startups as Web Developer, Designer and Software Developer. I have also worked with some well established companies mostly as Web Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
 	header_image_path: "experience.svg",
 	sections: [
 		{
 			title: "Work",
 			experiences: [
 				{
-					title: "Android and ML Developer",
-					company: "Muffito Incorporation",
-					company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-					logo_path: "muffito_logo.png",
-					duration: "May 2018 - Oct 2018",
+					title: "Senior Web Developer",
+					company: "Launch Future",
+					company_url: "https://www.launchfuture.com/",
+					logo_path: "LF-Logo-Dark-web.png",
+					duration: "Sep 2019 - May 2020",
 					location: "Pune, Maharashtra",
 					description:
-						"I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+						"I have created complete WebSite & Application for Time Tracking for Freelancers. I have also worked on implementation of Desktop Application using ElectronJs. I was involved in a team for creating complete software Development of mobile and web application as well as admin panel for company.",
 					color: "#9b1578"
 				},
 				{
-					title: "Android Developer",
-					company: "FreeCopy Pvt. Ltd.",
-					company_url: "https://www.linkedin.com/company/freecopy/about/",
-					logo_path: "freecopy_logo.png",
-					duration: "Nov 2017 - Dec 2017",
-					location: "Ahmedabad, Gujarat",
+					title: "Dot Net Developer",
+					company: "Bee-glad",
+					company_url: "https://bee-glad.com/",
+					logo_path: "logo Bee-glad.png",
+					duration: "Nov 2017 - May 2019",
+					location: "Pune, Maharashtra",
 					description:
-						"FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+						"This was a startup So I was Created Basic Dot Net Softwares for Jewellary Shops & General Stores. I have changed the integration of the whole app from Dot Net Framework to Core. I learnt the efﬁcient ways of Data communications like MySQL, OracleDB etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
 					color: "#fc1f20"
 				}
 			]
@@ -43,7 +43,8 @@ const experience = {
 		{
 			title: "Internships",
 			experiences: [
-				{
+
+			/*	{ 
 					title: "Data Science Research Intern",
 					company: "Delhivery Pvt. Ltd.",
 					company_url: "https://www.delhivery.com/",
@@ -65,13 +66,14 @@ const experience = {
 					description:
 						"This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
 					color: "#0071C5"
-				}
+				} */
 			]
 		},
 		{
 			title: "Volunteerships",
 			experiences: [
-				{
+				
+			/*	{
 					title: "Google Explore ML Facilitator",
 					company: "Google",
 					company_url: "https://about.google/",
@@ -126,7 +128,7 @@ const experience = {
 					description:
 						"I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating peoper documentation for project.",
 					color: "#181717"
-				}
+				}   */
 			]
 		}
 	]
