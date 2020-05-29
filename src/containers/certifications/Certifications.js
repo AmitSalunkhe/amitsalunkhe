@@ -11,7 +11,6 @@ class Certifications extends Component {
 						<div className="certs-header-div">
 							<Fade bottom duration={2000} distance="20px">
 								<h1 className="certs-header">Certifications</h1>
-								<h3>Certifications will Upload soon</h3>
 							</Fade>
 						</div>
 						<div className="certs-body-div">
