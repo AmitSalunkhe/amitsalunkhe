@@ -54,15 +54,7 @@ function Header() {
 								Projects
 							</NavLink>
 						</li>
-						<li>
-							<NavLink
-								to="/opensource"
-								tag={Link}
-								activeStyle={{ fontWeight: "bold" }}
-							>
-								Open Source
-							</NavLink>
-						</li>
+					
 						<li>
 							<NavLink
 								to="/contact"
@@ -79,3 +71,13 @@ function Header() {
 	);
 }
 export default Header;
+
+/*<li>
+<NavLink
+	to="/opensource"
+	tag={Link}
+	activeStyle={{ fontWeight: "bold" }}
+>
+	Open Source
+</NavLink>
+</li> */
