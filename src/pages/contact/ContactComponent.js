@@ -14,7 +14,8 @@ const blogSection = {
 	title: "Blogs",
 	subtitle:
 		"For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-	link: "http://34.68.249.152/",
+	link: "https://www.codewithamit.tk/", //"http://34.68.249.152/",
+
 	avatar_image_path: "blogs_image.svg"
 };
 
